@@ -24,6 +24,16 @@
             <enclosure url="https://jcuenod.github.io/personal-podcasts/episodes/original-2023-11-06.mp3"
 type="audio/mp3" length="544224" />
             <title>Episode 1: 5 November 2023</title>
+            <description>
+                Sources for today's episode may be found here:
+                1. https://www.economist.com/united-states/2023/10/31/why-doctors-in-america-earn-so-much
+                2. https://www.theregister.com/2023/11/02/google_abandons_web_environment_integrity/
+                3. https://www.nytimes.com/live/2023/11/02/business/sam-bankman-fried-trial
+                4. https://fortune.com/2023/11/03/bayer-332-million-judgement-trial-man-cancer-decades-monsanto-roundup-weedkiller/
+                5. https://ij.org/press-release/victory-appeals-court-unanimously-denies-judicial-immunity-to-west-virginia-judge-who-personally-searched-home-ordered-items-removed
+            </description>
+            <pubDate>Sun, 05 Nov 2023 06:00:00 PDT</pubDate>
+            <itunes:duration>2:16</itunes:duration>
         </item>
     </channel>
 </rss>
