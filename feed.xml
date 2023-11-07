@@ -18,8 +18,8 @@
         <itunes:author>James Cuénod</itunes:author>
         <itunes:category text="News &amp; Politics"/>
         <atom:link href="https://jcuenod.github.io/personal-podcasts/feed.xml" rel="self" type="application/rss+xml"/>
-        <lastBuildDate>Sun, 05 Nov 2023 06:00:00 PDT</lastBuildDate>
-        <pubDate>Sun, 05 Nov 2023 06:00:00 PDT</pubDate>
+        <lastBuildDate>Mon, 06 Nov 2023 22:14:00 CST</lastBuildDate>
+        <pubDate>Mon, 06 Nov 2023 22:14:00 CST</pubDate>
         <item>
             <enclosure url="https://jcuenod.github.io/personal-podcasts/episodes/original-2023-11-06.mp3"
 type="audio/mp3" length="544224" />
