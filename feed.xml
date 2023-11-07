@@ -35,5 +35,21 @@ type="audio/mp3" length="544224" />
             <pubDate>Sun, 05 Nov 2023 06:00:00 PDT</pubDate>
             <itunes:duration>2:16</itunes:duration>
         </item>
+        <item>
+            <enclosure url="http://storage.googleapis.com/personal-podcasts-bucket-1/original/2023-11-07.wav"
+type="audio/x-wav" length="14017238" />
+            <title>Episode 2: 6 November 2023</title>
+            <description>
+Sources for today's episode may be found here:
+  1. https://www.patheos.com/blogs/betweentwokingdoms/2022/11/a-typology-of-conservative-protestants-in-an-anxious-age/
+  2. https://www.christianitytoday.com/news/2023/september/methodist-umc-north-carolina-leave-disaffiliate-sue-denomin.html
+  3. https://www.persecution.com/globalprayerguide/cuba/
+  4. https://www.9marks.org/article/how-did-church-planting-movements-gain-a-foothold-within-the-imb/
+  5. https://africa.thegospelcoalition.org/article/history-christianity-africa/
+  6. https://africa.thegospelcoalition.org/article/are-dreams-and-visions-messages-from-god-africa-study-bible/
+            </description>
+            <pubDate>Mon, 06 Nov 2023 22:14:00 CST</pubDate>
+            <itunes:duration>4:52</itunes:duration>
+        </item>
     </channel>
 </rss>
