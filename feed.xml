@@ -18,8 +18,8 @@
         <itunes:author>James Cuénod</itunes:author>
         <itunes:category text="News &amp; Politics"/>
         <atom:link href="https://jcuenod.github.io/personal-podcasts/feed.xml" rel="self" type="application/rss+xml"/>
-        <lastBuildDate>Mon, 06 Nov 2023 22:14:00 CST</lastBuildDate>
-        <pubDate>Mon, 06 Nov 2023 22:14:00 CST</pubDate>
+        <lastBuildDate>Sun, 12 Nov 2023 21:15:00 CST</lastBuildDate>
+        <pubDate>Sun, 12 Nov 2023 21:15:00 CST</pubDate>
         <item>
             <enclosure url="https://jcuenod.github.io/personal-podcasts/episodes/original-2023-11-06.mp3"
 type="audio/mp3" length="544224" />
@@ -50,6 +50,20 @@ Sources for today's episode may be found here:
             </description>
             <pubDate>Mon, 06 Nov 2023 22:14:00 CST</pubDate>
             <itunes:duration>4:52</itunes:duration>
+        </item>
+        <item>
+            <enclosure url="https://storage.googleapis.com/personal-podcasts-bucket-1/original/2023-11-13.wav"
+type="audio/x-wav" length="5978196" />
+            <title>Episode 3: 12 November 2023</title>
+            <description>
+Sources for today's episode may be found here:
+1. https://www.bloomberg.com/news/articles/2023-11-11/diamond-prices-miners-take-radical-steps-to-support-the-market
+2. https://www.theguardian.com/tv-and-radio/2023/nov/11/lost-doctor-who-episodes-found-owner-reluctant-to-hand-them-to-bbc
+3. https://www.nbcnews.com/tech/tech-news/addicted-losing-how-casino-apps-have-drained-people-millions-n1239604
+4. https://github.com/AsahiLinux/docs/wiki/SW:Speakers
+            </description>
+            <pubDate>Sun, 12 Nov 2023 21:15:00 CST</pubDate>
+            <itunes:duration>2:04</itunes:duration>
         </item>
     </channel>
 </rss>
